@@ -1,0 +1,46 @@
+h1 {
+  font-family: Living Colours Personal Use;
+  font-size: 80px;
+  color: #ff80aa;
+  text-shadow: 4px 4px #ffff66;
+  margin-bottom: 10;
+  margin-left: -30px;
+  }
+#title{
+  font-family: Living Colours Personal Use;
+  font-size: 80px;
+  color: #ff80aa;
+  text-shadow: 4px 4px #ffff66;
+  margin-bottom: 10;
+  margin-left: 0px;
+  text-decoration: none;
+}
+body {
+  background-color: #000033;
+		margin-top: 40px;
+		margin-right: 40px;
+		margin-left: 60px;
+	}
+
+p {
+  font-family: Caviar Dreams Bold;
+  color: #ffffff;
+}
+h2{
+  font-family: Dolce Vita Heavy Bold;
+  color: #ffff66;
+  margin-top: -20;
+  text-decoration: none;
+}
+a{
+  font-family: Dolce Vita Heavy Bold;
+  color: #ffff66;
+  margin-top: -20;
+  text-decoration: none;
+}
+.header{
+  font-family: Living Colours Personal Use;
+  color: #ff80aa;
+  font-size: 60px;
+  margin-top: 20;
+}
