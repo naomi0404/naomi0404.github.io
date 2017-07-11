@@ -1,4 +1,12 @@
-h1{
+h1 {
+  font-family: Living Colours Personal Use;
+  font-size: 80px;
+  color: #ff80aa;
+  text-shadow: 4px 4px #ffff66;
+  margin-bottom: 10;
+  margin-left: -30px;
+  }
+#title{
   font-family: Living Colours Personal Use;
   font-size: 80px;
   color: #ff80aa;
@@ -37,4 +45,3 @@ a{
   margin-top: 20;
 }
 
-.prez{}
